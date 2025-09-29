@@ -1,2 +1,2 @@
 # datasciencecoursera
-Created repoditory for my assemble toolbox.
+Created repository for my assemble toolbox.
